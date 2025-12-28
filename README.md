@@ -121,7 +121,7 @@ For additional backend details, refer to [`backend/README.md`](./backend/README.
    ```
 
    Frontend will be available at:
-   👉 `http://localhost:5173`
+   👉 http://localhost:5173/
 
 ---
 
@@ -327,6 +327,8 @@ Defined in `backend/.env.example`:
 ISC
 
 ---
+
+SCREENSHOTS: <img width="2560" height="1440" alt="Screenshot (947)" src="https://github.com/user-attachments/assets/fdc436f6-5e96-4f3a-b06a-f18181b76966" />
 
 
 
