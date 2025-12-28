@@ -64,10 +64,10 @@ A robust **full-stack application** designed to manage air cargo bookings and fl
    Update `.env` with your configuration:
 
    ```env
-   MONGODB_URI=mongodb://localhost:27017/air-cargo-booking
-   PORT=3000
-   NODE_ENV=development
-   LOG_LEVEL=info
+   MONGODB_URI
+   PORT
+   NODE_ENV
+   LOG_LEVEL
    ```
 
 4. **Seed the database with sample data**
@@ -94,7 +94,7 @@ A robust **full-stack application** designed to manage air cargo bookings and fl
    ```
 
    Backend API will be available at:
-   👉 `http://localhost:3000`
+   👉 http://localhost:3000
 
 For additional backend details, refer to [`backend/README.md`](./backend/README.md).
 
@@ -329,6 +329,7 @@ ISC
 ---
 
 SCREENSHOTS: <img width="2560" height="1440" alt="Screenshot (947)" src="https://github.com/user-attachments/assets/fdc436f6-5e96-4f3a-b06a-f18181b76966" />
+
 
 
 
